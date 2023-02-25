@@ -17,6 +17,7 @@ const Navbar = () => {
         <li>Nuestros Locales</li>
         <li>Quienes Somos</li>
         <li>Contacto</li>
+        <li>Ubicacion</li>
       </ul>
       <CartWidget />
     </div>
